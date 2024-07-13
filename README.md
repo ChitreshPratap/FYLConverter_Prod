@@ -15,7 +15,7 @@ FLYConverter is a user-friendly application designed for windows and macOS that 
         </li>
         <li>
             <b>PDF to Single PDFs with multiple selected pages:</b> Extract specific pages from a larger PDF and Create a single PDFs by combining selected pages.        
-        <li>
+        </li>
         <li>
             <b>PDF to PNG (Coming Soon):</b> Extract individual pages from a PDF and save them as separate PNG image files.        
         <li>
@@ -23,6 +23,7 @@ FLYConverter is a user-friendly application designed for windows and macOS that 
 </p>
 
 <h3>Installation</h3>
+<p>downloaded file and follow the on-screen instructions to complete the installation process.</p>
 <ul>
     <li>
         Windows :
@@ -35,5 +36,6 @@ FLYConverter is a user-friendly application designed for windows and macOS that 
         Mac OS : <a href="https://github.com/ChitreshPratap/FYLConverter_Prod/releases/download/v0.0.1/FYLConverter.v0.0.1.dmg">click here </a>
     </li>
 </ul>
+
 
 
