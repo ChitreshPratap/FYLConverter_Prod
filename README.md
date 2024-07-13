@@ -1,4 +1,4 @@
-<h1>FYLConverter - A Multipurpose PDF and Image Converter for macOS</h1>
+<h1>FYLConverter - A Multipurpose PDF and Image Converter for Windows / MacOS</h1>
 <p>
 FLYConverter is a user-friendly application designed for windows and macOS that provides various functionalities for converting and manipulating PDFs and images.
 <h3>Features</h3>
